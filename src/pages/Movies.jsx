@@ -1,5 +1,7 @@
+import { SearchForm } from '../components/SearchForm/SearchForm';
+
 const Movies = () => {
-  return <div>Фильмы</div>;
+  return <SearchForm />;
 };
 
 export default Movies;
